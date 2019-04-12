@@ -1,1 +1,3 @@
-for loopCounter = 1, 10 
+for x in range(21)
+	print(x)
+end
